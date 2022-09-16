@@ -1,3 +1,3 @@
-#Open CV practice
+# Open CV practice
 
 https://pyimagesearch.com/start-here/
